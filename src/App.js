@@ -12,7 +12,7 @@ export const App = ({ defaultItems = [] }) => {
         <SearchItem setItemToSearch={setItems} />
         <ul>
           {items.map((item, i) => (
-            <GridItems key={i} {...item} />
+            <GridItems key={i} item={items} />
           ))}
         </ul>
       </div>
