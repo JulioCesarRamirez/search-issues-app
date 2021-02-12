@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <GridItems /> Should show <GridItems /> correctly 1`] = `ShallowWrapper {}`;

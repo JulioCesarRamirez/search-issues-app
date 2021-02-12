@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <App /> Should show <App /> correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Test <App /> should show a list of items   1`] = `ShallowWrapper {}`;
